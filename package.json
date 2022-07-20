@@ -1,10 +1,9 @@
 {
   "name": "coba-aja",
   "main": "./lib/coba-aja",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "coba-aja:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
