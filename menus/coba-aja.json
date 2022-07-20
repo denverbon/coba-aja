@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle coba-aja",
+        "command": "coba-aja:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "coba-aja",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "coba-aja:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
